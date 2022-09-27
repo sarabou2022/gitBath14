@@ -3,7 +3,12 @@ package ClassGit;
 public class GitClass02 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		System.out.println("Hello Git Class");
+		System.out.println("This is a change in my project");
+		
+		
+		
 
 	}
 
