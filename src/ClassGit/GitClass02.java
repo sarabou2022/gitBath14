@@ -6,9 +6,7 @@ public class GitClass02 {
 		
 		System.out.println("Hello Git Class");
 		System.out.println("This is a change in my project");
-		
-		
-		
+		System.out.println("I love you Mohamed");
 
 	}
 
